@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\GestionCompetidores\\GestionCompetidores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{875D5243-B604-4745-9DDE-6F7B7B862774}|GestionCompetidores.Web\\GestionCompetidores.Web.csproj|c:\\users\\nitof\\source\\repos\\repositorios de practica\\gestioncompetidores\\gestioncompetidores\\gestioncompetidores.web\\views\\competidor\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{875D5243-B604-4745-9DDE-6F7B7B862774}|GestionCompetidores.Web\\GestionCompetidores.Web.csproj|solutionrelative:gestioncompetidores.web\\views\\competidor\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875D5243-B604-4745-9DDE-6F7B7B862774}|GestionCompetidores.Web\\GestionCompetidores.Web.csproj|c:\\users\\nitof\\source\\repos\\repositorios de practica\\gestioncompetidores\\gestioncompetidores\\gestioncompetidores.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{875D5243-B604-4745-9DDE-6F7B7B862774}|GestionCompetidores.Web\\GestionCompetidores.Web.csproj|solutionrelative:gestioncompetidores.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875D5243-B604-4745-9DDE-6F7B7B862774}|GestionCompetidores.Web\\GestionCompetidores.Web.csproj|c:\\users\\nitof\\source\\repos\\repositorios de practica\\gestioncompetidores\\gestioncompetidores\\gestioncompetidores.web\\views\\competidor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{875D5243-B604-4745-9DDE-6F7B7B862774}|GestionCompetidores.Web\\GestionCompetidores.Web.csproj|solutionrelative:gestioncompetidores.web\\views\\competidor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875D5243-B604-4745-9DDE-6F7B7B862774}|GestionCompetidores.Web\\GestionCompetidores.Web.csproj|c:\\users\\nitof\\source\\repos\\repositorios de practica\\gestioncompetidores\\gestioncompetidores\\gestioncompetidores.web\\controllers\\competidorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875D5243-B604-4745-9DDE-6F7B7B862774}|GestionCompetidores.Web\\GestionCompetidores.Web.csproj|solutionrelative:gestioncompetidores.web\\controllers\\competidorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\GestionCompetidores\\GestionCompetidores\\GestionCompetidores.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GestionCompetidores.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\GestionCompetidores\\GestionCompetidores\\GestionCompetidores.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GestionCompetidores.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T16:30:45.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\GestionCompetidores\\GestionCompetidores\\GestionCompetidores.Web\\Views\\Competidor\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionCompetidores.Web\\Views\\Competidor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\GestionCompetidores\\GestionCompetidores\\GestionCompetidores.Web\\Views\\Competidor\\Index.cshtml",
+              "RelativeToolTip": "GestionCompetidores.Web\\Views\\Competidor\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T16:21:49.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\GestionCompetidores\\GestionCompetidores\\GestionCompetidores.Web\\Views\\Competidor\\Crear.cshtml",
+              "RelativeDocumentMoniker": "GestionCompetidores.Web\\Views\\Competidor\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\GestionCompetidores\\GestionCompetidores\\GestionCompetidores.Web\\Views\\Competidor\\Crear.cshtml",
+              "RelativeToolTip": "GestionCompetidores.Web\\Views\\Competidor\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T16:21:03.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompetidorController.cs",
+              "DocumentMoniker": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\GestionCompetidores\\GestionCompetidores\\GestionCompetidores.Web\\Controllers\\CompetidorController.cs",
+              "RelativeDocumentMoniker": "GestionCompetidores.Web\\Controllers\\CompetidorController.cs",
+              "ToolTip": "C:\\Users\\nitof\\source\\repos\\Repositorios de practica\\GestionCompetidores\\GestionCompetidores\\GestionCompetidores.Web\\Controllers\\CompetidorController.cs",
+              "RelativeToolTip": "GestionCompetidores.Web\\Controllers\\CompetidorController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:11:01.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

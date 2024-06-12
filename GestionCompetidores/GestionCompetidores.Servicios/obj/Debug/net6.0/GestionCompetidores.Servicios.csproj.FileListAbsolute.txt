@@ -1,0 +1,15 @@
+C:\Users\nitof\source\repos\Repositorios de practica\GestionCompetidores\GestionCompetidores\GestionCompetidores.Servicios\bin\Debug\net6.0\GestionCompetidores.Servicios.deps.json
+C:\Users\nitof\source\repos\Repositorios de practica\GestionCompetidores\GestionCompetidores\GestionCompetidores.Servicios\bin\Debug\net6.0\GestionCompetidores.Servicios.dll
+C:\Users\nitof\source\repos\Repositorios de practica\GestionCompetidores\GestionCompetidores\GestionCompetidores.Servicios\bin\Debug\net6.0\GestionCompetidores.Servicios.pdb
+C:\Users\nitof\source\repos\Repositorios de practica\GestionCompetidores\GestionCompetidores\GestionCompetidores.Servicios\bin\Debug\net6.0\GestionCompetidores.Data.dll
+C:\Users\nitof\source\repos\Repositorios de practica\GestionCompetidores\GestionCompetidores\GestionCompetidores.Servicios\bin\Debug\net6.0\GestionCompetidores.Data.pdb
+C:\Users\nitof\source\repos\Repositorios de practica\GestionCompetidores\GestionCompetidores\GestionCompetidores.Servicios\obj\Debug\net6.0\GestionCompetidores.Servicios.csproj.AssemblyReference.cache
+C:\Users\nitof\source\repos\Repositorios de practica\GestionCompetidores\GestionCompetidores\GestionCompetidores.Servicios\obj\Debug\net6.0\GestionCompetidores.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitof\source\repos\Repositorios de practica\GestionCompetidores\GestionCompetidores\GestionCompetidores.Servicios\obj\Debug\net6.0\GestionCompetidores.Servicios.AssemblyInfoInputs.cache
+C:\Users\nitof\source\repos\Repositorios de practica\GestionCompetidores\GestionCompetidores\GestionCompetidores.Servicios\obj\Debug\net6.0\GestionCompetidores.Servicios.AssemblyInfo.cs
+C:\Users\nitof\source\repos\Repositorios de practica\GestionCompetidores\GestionCompetidores\GestionCompetidores.Servicios\obj\Debug\net6.0\GestionCompetidores.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\nitof\source\repos\Repositorios de practica\GestionCompetidores\GestionCompetidores\GestionCompetidores.Servicios\obj\Debug\net6.0\GestionC.DBC1A382.Up2Date
+C:\Users\nitof\source\repos\Repositorios de practica\GestionCompetidores\GestionCompetidores\GestionCompetidores.Servicios\obj\Debug\net6.0\GestionCompetidores.Servicios.dll
+C:\Users\nitof\source\repos\Repositorios de practica\GestionCompetidores\GestionCompetidores\GestionCompetidores.Servicios\obj\Debug\net6.0\refint\GestionCompetidores.Servicios.dll
+C:\Users\nitof\source\repos\Repositorios de practica\GestionCompetidores\GestionCompetidores\GestionCompetidores.Servicios\obj\Debug\net6.0\GestionCompetidores.Servicios.pdb
+C:\Users\nitof\source\repos\Repositorios de practica\GestionCompetidores\GestionCompetidores\GestionCompetidores.Servicios\obj\Debug\net6.0\ref\GestionCompetidores.Servicios.dll
